@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/music-tempo-groove-filament",
+  "description": "Tempo, Meter and Groove Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capability0f74557b937a\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "music-tempo-groove-filament"
+    }
+  }
+}

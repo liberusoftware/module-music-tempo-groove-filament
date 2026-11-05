@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-tempo-groove-filament",
+  "capabilityKey": "liberusoftware/music-tempo-groove",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/music-tempo-groove-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/music/nextjs/tempo-groove.md",
+  "presentationPlan": "projects/music/filament/tempo-groove.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
